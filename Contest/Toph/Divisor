@@ -1,0 +1,12 @@
+Toph Easy Problem : Divisors
+
+Step 1 : Taking input int i.e. < 100 and > 0 ;
+Step 2 : Checking form 1 to input int ;
+Step 3 : Check if inputed int modulused by pointer = zero ; 
+Step 4 : Print the pointer if Step 3 is true ;
+
+
+Requirements :
+Test case is 0<int<100
+Normal Logical Implementation
+ 
